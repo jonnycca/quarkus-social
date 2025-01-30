@@ -1,1 +1,4 @@
+br\com\domain\User.class
+br\com\rest\request\CreateUserRequest.class
+br\com\rest\UserController.class
 br\com\GreetingResource.class
